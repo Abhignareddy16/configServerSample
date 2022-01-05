@@ -1,10 +1,10 @@
 config:
   client:
-    message: Hello.This is Abhigna
-    list[0]: abhigna
-    list[1]: swarna
+    message: Client78
+    list[0]: list1233
+    list[1]: list2
     
     map:
-      key1: xxx
-      key2: yyy
-      key3: zzz
+      key1: val1
+      key2: val2
+      key3: val3
