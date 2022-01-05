@@ -5,6 +5,6 @@ config:
     list[1]: swarna
     
     map:
-      key1: 1000
-      key2: 1500
-      key3: 3000
+      key1: 1
+      key2: 2
+      key3: 3
