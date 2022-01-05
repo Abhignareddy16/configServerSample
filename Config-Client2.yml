@@ -5,6 +5,6 @@ config:
     list[1]: swarna
     
     map:
-      key1: 1
-      key2: 2
-      key3: 3
+      key1: xxx
+      key2: yyy
+      key3: zzz
