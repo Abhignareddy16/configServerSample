@@ -1,6 +1,6 @@
 config:
   client:
-    message: dev mesg123
+    message: dev mesg
     list[0]: list1
     list[1]: list2
     
